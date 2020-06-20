@@ -30,9 +30,9 @@ public class MainActivity extends AppCompatActivity {
 
         RelativeLayout relLayout = findViewById(R.id.relLayout);
         View view2 = ltInflater.inflate(R.layout.text, relLayout, true);
-         LayoutParams lp2 = (LayoutParams) view2.getLayoutParams();
+        LayoutParams lp2 = (LayoutParams) view2.getLayoutParams();
 
-         Log.d(TAG, "Class of view1: " + view2.getClass().toString());
-         Log.d(TAG, "Class of layoutParams of view1: " + lp2.getClass().toString());
+        Log.d(TAG, "Class of view1: " + view2.getClass().toString());
+        Log.d(TAG, "Class of layoutParams of view1: " + lp2.getClass().toString());
     }
 }
