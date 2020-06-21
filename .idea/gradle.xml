@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/p0401_layoutinflater" />
             <option value="$PROJECT_DIR$/p0411_layoutinflaterlist" />
             <option value="$PROJECT_DIR$/p0421_simplelist" />
+            <option value="$PROJECT_DIR$/p0561_mainactivity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
