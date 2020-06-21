@@ -35,6 +35,7 @@
             <option value="$PROJECT_DIR$/p0421_simplelist" />
             <option value="$PROJECT_DIR$/p0561_mainactivity" />
             <option value="$PROJECT_DIR$/p0681_parcel" />
+            <option value="$PROJECT_DIR$/p0691_parcelable" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
